@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ismaıl AKBOĞA
+# Ismail AKBOGA
 
 **Cyber Security Engineer**
 

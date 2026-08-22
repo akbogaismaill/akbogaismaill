@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 # Ismail AKBOGA
 
@@ -13,6 +13,8 @@
 
 ---
 
+<div align="right">
+
 ### About
 
 Junior penetration tester with a background in network security and Linux system administration. I focus on web and network pentesting, vulnerability assessment and OSINT, and I also build blockchain projects and experiment with AI-driven security tooling.
@@ -20,7 +22,7 @@ Junior penetration tester with a background in network security and Linux system
 ### Focus Areas
 
 | Offensive Security | Networking & Systems | Development |
-|:--|:--|:--|
+|--:|--:|--:|
 | Penetration Testing | Network Security | Blockchain / Web3 |
 | Vulnerability Assessment | Linux Administration | AI-driven Security Tooling |
 | OSINT | Traffic Analysis | Scripting & Automation |
@@ -56,9 +58,11 @@ Junior penetration tester with a background in network security and Linux system
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+</div>
+
 ---
 
-<div align="center">
+<div align="right">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akbogaismaill&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbogaismaill&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
@@ -66,6 +70,15 @@ Junior penetration tester with a background in network security and Linux system
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=akbogaismaill&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akbogaismaill&theme=react-dark&bg_color=0d1117&color=39d353&line=39d353&point=39d353&hide_border=true&area=false&custom_title=Contribution%20Activity&radius=0" alt="Activity Graph" width="95%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akbogaismaill&theme=github_dark&utcOffset=3" alt="Productive Time" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akbogaismaill&theme=github_dark" alt="Repos per Language" height="180" />
 
 <br><br>
 

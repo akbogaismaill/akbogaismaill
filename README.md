@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 
 # Ismail AKBOGA
 
@@ -13,8 +13,6 @@
 
 ---
 
-<div align="right">
-
 ### About
 
 Junior penetration tester with a background in network security and Linux system administration. I focus on web and network pentesting, vulnerability assessment and OSINT, and I also build blockchain projects and experiment with AI-driven security tooling.
@@ -22,7 +20,7 @@ Junior penetration tester with a background in network security and Linux system
 ### Focus Areas
 
 | Offensive Security | Networking & Systems | Development |
-|--:|--:|--:|
+|:--|:--|:--|
 | Penetration Testing | Network Security | Blockchain / Web3 |
 | Vulnerability Assessment | Linux Administration | AI-driven Security Tooling |
 | OSINT | Traffic Analysis | Scripting & Automation |
@@ -58,11 +56,9 @@ Junior penetration tester with a background in network security and Linux system
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-</div>
-
 ---
 
-<div align="right">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akbogaismaill&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbogaismaill&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />

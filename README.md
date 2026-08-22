@@ -52,10 +52,6 @@ Junior penetration tester with a background in network security and Linux system
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akbogaismaill&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/akbogaismaill/akbogaismaill/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
 
 </div>
